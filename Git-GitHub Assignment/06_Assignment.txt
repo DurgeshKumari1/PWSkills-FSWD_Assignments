@@ -1,0 +1,14 @@
+/*Q6. Deploy Tailwind projects named Youtube, slack, and Gmail clones on GitHub pages and share the
+deployed link of those three. Expected output - Live hosted URL Link of your deployed respective website with
+GitHub pages.*/
+
+
+
+
+Youtube Clone URL- https://durgeshkumari1.github.io/PW_Youtube-Clone/
+
+
+Slack Clone URL- https://durgeshkumari1.github.io/PW_Slack-Clone/
+
+Gmail Clone URL- https://durgeshkumari1.github.io/PW_Gmail-Clone/
+
